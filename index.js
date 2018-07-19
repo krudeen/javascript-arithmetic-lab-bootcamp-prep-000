@@ -26,14 +26,11 @@ function makeInt(n) {
   return parseInt(n, 10);
 }
 
-
-
-
 function preserveDecimal(n){
-  return pareseFloat(n, 10)
+  return pareseFloat(n)
 }
 
-function preserve(n){
+function preserveDecimal(n){
   return (NaN)
   
 }
