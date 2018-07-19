@@ -1,5 +1,5 @@
-function add(a,b){
-  return.to equal(a+b)
+function add(a, b){
+  return `a + b`
 }
 
 
