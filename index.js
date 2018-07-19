@@ -1,6 +1,4 @@
-function add(a, b){
-  
-}
+add(a, b)
 
 function subtract(a, b){
   
