@@ -1,5 +1,5 @@
 function add(a, b){
-  return `1371`
+  return `1370 + 1`
 }
 
 
